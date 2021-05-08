@@ -3,7 +3,7 @@
 
 You can contact me through E-mail:    
 
-- [E-mail](superkuma874@outlook.com)
+- [E-mail](mailto:superkuma874@outlook.com)
 
 [![MiriKuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiriKuma&theme=radical)]
 
