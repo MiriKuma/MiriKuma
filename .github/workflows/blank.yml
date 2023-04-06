@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: MiriKuma/metrics@master
+      - uses: MiriKuma/MiriKuma@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
