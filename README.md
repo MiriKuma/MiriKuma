@@ -28,6 +28,35 @@
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+🌆 Daytime                11 commits          ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌃 Evening                19 commits          ██████████████░░░░░░░░░░░   54.29 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 <!---
