@@ -27,6 +27,9 @@
 <!-- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) -->
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 MiriKuma/MiriKuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
