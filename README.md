@@ -11,7 +11,7 @@
 <br/>
 
 ## Skills
-![skills](https://skillicons.dev/icons?i=java,py,mysql,mongodb,redis,rocket,kafka,spring,maven,git,github,linux,md,idea,vscode,postman&perline=8)
+![skills](https://skillicons.dev/icons?i=java,py,mysql,mongodb,postgres,redis,rocket,kafka,spring,maven,git,github,linux,md,idea,vscode,postman,discord&perline=9)
 
 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
