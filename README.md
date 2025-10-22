@@ -5,7 +5,7 @@
 - 👋 Hi, I’m MiriKuma.
 - 📖 Focous on Java and learning Go.
 - 📩 You can contact me through [E-mail](mailto:superkuma874@gmail.com).
-- 🌍 Languages: `汉语` `English(Advanced)` `日本語(Elementary)`
+- 🌍 Languages: `汉语` `English(Advanced)` `日本語(Intermediate)` `Français (Beginner)`
 - 🌟 Wouldn’t trade it out for another life.
 
 <br/>
