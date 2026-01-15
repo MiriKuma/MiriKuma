@@ -1,6 +1,5 @@
 ## About me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MiriKuma&theme=radical"/>
 
 - 👋 Hi, I’m MiriKuma.
 - 📖 Focous on Java and learning Go.
