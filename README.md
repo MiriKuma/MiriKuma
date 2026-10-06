@@ -44,14 +44,13 @@
 
 ```text
 💬 Programming Languages: 
-CSS                      8 mins              ████████████████████████░   97.63 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
