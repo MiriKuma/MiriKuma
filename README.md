@@ -30,8 +30,6 @@
 ## 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -46,39 +44,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   16 mins             ████████████░░░░░░░░░░░░░   46.39 % 
-XML                      13 mins             ██████████░░░░░░░░░░░░░░░   38.38 % 
-Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             ████████████████████░░░░░   79.47 % 
-Claude Code              7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (20.53%)
-
-✍️ 301 lines written by AI, 3 lines written by hand (99.01% AI-written)
-
-🔤 11,793 Input Tokens, 9,535 Output Tokens
-
-💵 $0.21 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Sonnet                   301 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.01% of written lines came from AI
-📝 Concise Prompter — average 50 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.59% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
